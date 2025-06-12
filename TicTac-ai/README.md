@@ -23,10 +23,10 @@ The AI evaluates all possible future moves using the Minimax algorithm and prune
 
 ## 💡Example
 
+```
 Welcome to Tic-Tac-Toe!
 Do you want to go first? (y/n): y
 
-``` 
 |   |   |   |
 |   |   |   |
 |   |   |   |
