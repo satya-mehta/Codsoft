@@ -26,21 +26,23 @@ The AI evaluates all possible future moves using the Minimax algorithm and prune
 Welcome to Tic-Tac-Toe!
 Do you want to go first? (y/n): y
 
-```|   |   |   |
-```|   |   |   |
-```|   |   |   |
+``` 
+|   |   |   |
+|   |   |   |
+|   |   |   |
 
 Enter your move (row col): 0 0
 
-```| X |   |   |
-```|   |   |   |
-```|   |   |   |
+| X |   |   |
+|   |   |   |
+|   |   |   |
 
 AI's Turn:
 
-```| X |   |   |
-```|   | O |   |
-```|   |   |   |
+| X |   |   |
+|   | O |   |
+|   |   |   |
+```
 
 ## 🧠Learning Goals
 - Understand turn-based game logic
