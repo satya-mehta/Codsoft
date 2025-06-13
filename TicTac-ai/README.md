@@ -50,3 +50,6 @@ AI's Turn:
 - Learn and implement Minimax with Alpha-Beta pruning
 
 - Apply decision trees and evaluation functions in games
+
+## 👨‍💻 Author
+### Made with 💻 by [Satya Mehta](https://github.com/satya-mehta)

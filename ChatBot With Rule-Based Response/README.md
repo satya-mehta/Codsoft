@@ -59,3 +59,5 @@ You: 6 * 7
 
 - Modular code and extensibility
 
+## 👨‍💻 Author
+### Made with 💻 by [Satya Mehta](https://github.com/satya-mehta)
